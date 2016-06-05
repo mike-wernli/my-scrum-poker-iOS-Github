@@ -99,6 +99,7 @@
 				TargetAttributes = {
 					9636F5C11D048A4E001E0127 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = AMF69BSAU3;
 					};
 				};
 			};
@@ -253,6 +254,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "my-scrum-poker-iOS-Github/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mike-wernli.my-scrum-poker-iOS-Github";
@@ -264,6 +266,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "my-scrum-poker-iOS-Github/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.mike-wernli.my-scrum-poker-iOS-Github";
